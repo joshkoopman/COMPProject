@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Math Challenge</string>
     <string name="title_activity_math">MathActivity</string>
+    <string name="title_activity_score">ScoreActivity</string>
 </resources>

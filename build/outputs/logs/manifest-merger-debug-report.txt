@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:3:5-49
 		INJECTED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\An
 		INJECTED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml
 application
-ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:5:5-27:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jkoopman\.android\build-cache\c07bc1d7eab23e3e00baf7463cdd5da011d034c5\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.0] C:\Users\jkoopman\.android\build-cache\a3261246cd934eb1117c0debdd2ce2fb58ca49d1\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\jkoopman\.android\build-cache\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\output\AndroidManifest.xml:29:5-20
@@ -54,13 +54,21 @@ ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\An
 	android:name
 		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.jkoopman.myapplication.MathActivity
-ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:19:9-22:68
+ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:19:9-22:59
 	android:label
 		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:21:13-56
 	android:theme
 		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:22:13-56
 	android:name
 		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:20:13-41
+activity#com.example.jkoopman.myapplication.ScoreActivity
+ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:23:9-26:68
+	android:label
+		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:25:13-57
+	android:theme
+		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml:24:13-42
 uses-sdk
 INJECTED from C:\Users\jkoopman\AndroidStudioProjects\MyApplication\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\jkoopman\.android\build-cache\c07bc1d7eab23e3e00baf7463cdd5da011d034c5\output\AndroidManifest.xml:5:5-7:41

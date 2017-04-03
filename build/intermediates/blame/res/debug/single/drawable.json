@@ -116,12 +116,12 @@
         "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
         "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -160,12 +160,12 @@
         "source": "C:\\Users\\jkoopman\\.android\\build-cache\\a3261246cd934eb1117c0debdd2ce2fb58ca49d1\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
-    },
-    {
         "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
         "source": "C:\\Users\\jkoopman\\.android\\build-cache\\a3261246cd934eb1117c0debdd2ce2fb58ca49d1\\output\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",

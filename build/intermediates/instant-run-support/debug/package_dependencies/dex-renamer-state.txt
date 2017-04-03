@@ -1,4 +1,4 @@
-#Thu Mar 16 14:37:34 PDT 2017
+#Mon Apr 03 13:37:39 PDT 2017
 file.2=C\:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_38338d1d738ab2e3f153bcc92a6316ea9a6b39e0\\classes.dex
 base.2=C\:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_38338d1d738ab2e3f153bcc92a6316ea9a6b39e0
 file.1=C\:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_70ec7e7a3ac87987dbd441711e02bb7539ed8a6a\\classes.dex

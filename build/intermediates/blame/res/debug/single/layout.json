@@ -104,12 +104,20 @@
         "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_score.xml",
+        "source": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\layout\\content_score.xml"
+    },
+    {
+        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_score.xml",
+        "source": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\src\\main\\res\\layout\\activity_score.xml"
     },
     {
         "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\jkoopman\\.android\\build-cache\\a3261246cd934eb1117c0debdd2ce2fb58ca49d1\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\jkoopman\\.android\\build-cache\\eccc0bfad3eb2f55b400b40419b5758f9c8a0870\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
         "merged": "C:\\Users\\jkoopman\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
